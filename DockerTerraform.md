@@ -1,8 +1,7 @@
 # How I used Docker and Terraform to provision the NGIX server in minutes.
+At the end of this project, I familiarized myself with Terraform and showcased my Linux skills.
 
 ## Check out [all the screenshot](TerraformDockerImages). 
-
-## At the end of this project, I familiarized myself with Terraform and showcased my Linux skills.
 
 ## Steps
 1. I downloaded and installed the [Docker application](https://docs.docker.com/desktop/install/mac-install/) for Mac

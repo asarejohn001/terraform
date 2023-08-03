@@ -2,6 +2,8 @@
 
 ## Check out [all the screenshot](TerraformDockerImages). 
 
+## At the end of this project, I familiarized myself with Terraform and showcased my Linux skills.
+
 ## Steps
 1. I downloaded and installed the [Docker application](https://docs.docker.com/desktop/install/mac-install/) for Mac
 2. Use Terminal and bash/Linux language to open Docker

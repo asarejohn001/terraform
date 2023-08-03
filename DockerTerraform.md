@@ -43,3 +43,7 @@
    }
    ```
 5. I initiated he project, which downloads a plugin called a provider that lets Terraform interact with Docker and then provision the NGINX server container with the Terraform command "apply"
+```
+terraform init
+terraform apply
+```

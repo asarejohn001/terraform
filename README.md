@@ -1,4 +1,4 @@
-# terraform
+# Terraform
 In this project, I familiarize myself with Terraform by provisioning an NGINX server in less than a minute using [Docker](https://www.docker.com/products/docker-desktop/ "Docker download").
 
 ## What I learned from this project
